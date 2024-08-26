@@ -1,0 +1,57 @@
+
+:root{
+
+    --primary-color:#FFFFFF;
+    --white-color:blue ;
+    
+    }
+
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+.fundobody{
+
+    background: #f0f0f0;
+    margin: 20px;
+}
+
+
+.rodape{
+
+    background:#cccccc ;
+    text-align: center;
+    font-size: 24px;
+}
+
+h1{
+
+    color:#0000ff;
+    font-size: 24px;
+
+}
+
+p{
+    padding: 10px;
+    color:#333333;
+
+
+}
+li{
+    padding: 5px;
+    color:#00ff00
+    
+
+}
+.white-bg{
+    background: var(--white-color);
+    color: var(--primary-color);
+}
